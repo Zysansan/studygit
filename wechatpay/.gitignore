@@ -1,0 +1,5 @@
+vendor/
+.idea/
+.ssh/
+ex/
+composer.lock

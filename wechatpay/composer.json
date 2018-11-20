@@ -1,0 +1,21 @@
+{
+    "name": "peteryangs/wechatpay",
+    "description": "wechat pay sdk",
+    "type": "sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PeterYangs",
+            "email": "904801074@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "endroid/qr-code": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "wechatPay\\": "src/"
+        }
+    }
+}
